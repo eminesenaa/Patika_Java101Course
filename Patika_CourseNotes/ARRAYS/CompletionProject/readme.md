@@ -61,7 +61,8 @@ conditions have been added.
 
 
 # Losing Scenario
-```Your current board:
+```
+Your current board:
 ================
 - - - 
 - - - 
@@ -81,10 +82,12 @@ Enter col: 1
 Game Over! You lost!
 * - - 
 - - * 
-- - - ```
+- - - 
+```
 # Winning Scenario
 
-```Your current board:
+```
+Your current board:
 ================
 - - - 
 - - - 
